@@ -4,7 +4,7 @@
   --DarkCyan: hsl(185, 75%, 39%);
   --VeryDarkDesaturatedBlue: hsl(229, 23%, 23%);
   --DarkGrayishBlue: hsl(227, 10%, 46%);
-  --DarkGray: hsl(0, 0%, 59%);
+  --DarkGray: hsl(0, 0%, 59%, 50%);
 }
 
 * {
@@ -27,18 +27,18 @@ body {
 
 h1,
 h2 {
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: var(--VeryDarkDesaturatedBlue);
 }
 
 p {
-  color: var(--DarkGray);
+  color: var(--DarkGrayishBlue);
   font-size: 0.9rem;
 }
 
 span {
   font-weight: 400;
-  color: var(--DarkGray);
+  color: var(--DarkGrayishBlue);
   margin-left: 0.3rem;
 }
 
@@ -81,6 +81,6 @@ hr {
 
 .stats p {
   margin-top: 0.2rem;
-  font-size: 0.7rem;
-  letter-spacing: 1px;
+  font-size: 0.6rem;
+  letter-spacing: 1.5px;
 }
