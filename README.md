@@ -12,7 +12,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [frontendmentor.io/solutions/profile-card-component](https://www.frontendmentor.io/solutions/profile-card-component-D5lTcR8CwH)
 - Live Site URL: [abulhashim.github.io/Profile-Card-Component](https://abulhashim.github.io/Profile-Card-Component/)
 
 ## My process
